@@ -1,1 +1,1 @@
-Console.log("este archivo solamente es para abrir el git nada mas");
+Console.log("este archivo fue modificado desde la pagina de GitHUB.com ");
